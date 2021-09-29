@@ -1,5 +1,5 @@
 {
-  "short_name": "React App",
+  "short_name": "Kelvin",
   "name": "Create React App Sample",
   "icons": [
     {
@@ -8,18 +8,18 @@
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "https://avatars1.githubusercontent.com/u/8186664?s=460&v=4",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "https://avatars1.githubusercontent.com/u/8186664?s=460&v=4",
       "type": "image/png",
       "sizes": "512x512"
     }
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
+  "theme_color": "#fff",
   "background_color": "#ffffff"
 }
